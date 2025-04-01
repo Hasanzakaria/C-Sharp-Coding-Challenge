@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhone", "OldPhone\OldPhone.csproj", "{1159A2B8-C422-4E9B-8196-C143E88E9CCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OldPhoneTest", "OldPhoneTest\OldPhoneTest.csproj", "{64F13BCC-B133-428F-921B-2C7A403A2D50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1159A2B8-C422-4E9B-8196-C143E88E9CCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1159A2B8-C422-4E9B-8196-C143E88E9CCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1159A2B8-C422-4E9B-8196-C143E88E9CCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1159A2B8-C422-4E9B-8196-C143E88E9CCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64F13BCC-B133-428F-921B-2C7A403A2D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64F13BCC-B133-428F-921B-2C7A403A2D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64F13BCC-B133-428F-921B-2C7A403A2D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64F13BCC-B133-428F-921B-2C7A403A2D50}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
