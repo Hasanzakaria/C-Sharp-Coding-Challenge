@@ -1,9 +1,10 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OldPhone;
 
+namespace OldPhoneTest;
 
 [TestClass]
-public class OldPhoneKeypadTest
+public class OldPhoneKeypadTests
 {
     [TestMethod]
     public void Pressing0ShouldWorkCorrectly()
@@ -106,7 +107,6 @@ public class OldPhoneKeypadTest
         Assert.AreEqual("TURING", OldPhoneKeypad.TranslateInput("8 88777444666*664#"));
     }
     
-
     [TestMethod]
     public void OldPhoneKeyPadWorksCorrectlyForMultipleWords()
     {
