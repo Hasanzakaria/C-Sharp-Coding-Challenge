@@ -122,7 +122,7 @@ public static string TranslateInput(string input)
 **Algorithm**:
 1. Initializes a StringBuilder to store the result
 2. Processes each character in the input string
-3. When encountering a new character or special character, finishes processing the previous sequence
+3. When encountering a different character or special character, finishes processing the previous sequence
 4. For digit characters, tracks the number and press count
 5. Handles backspace functionality when an asterisk is encountered
 6. Returns the final translated string
